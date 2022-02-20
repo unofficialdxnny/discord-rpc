@@ -2,3 +2,12 @@
 <p align="center">
   <img src="logo.png" width="600" height="600">
 </p>
+
+
+## Features
+
+- Image
+- Image Text
+- Title
+- Description
+- 2x Buttons
