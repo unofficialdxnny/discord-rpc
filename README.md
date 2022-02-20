@@ -11,6 +11,7 @@
 - Title
 - Description
 - 2x Buttons
+- No  Login Required
 
 ## TODO
 
